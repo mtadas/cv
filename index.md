@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Tadas Marininas
 
-You can use the [editor on GitHub](https://github.com/mtadas/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Experienced IT Engineer with over 10 years of experience in Financial services and fast growth technology startups. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code._ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:tadas.marininas@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/tadasmarininas/) 
 
-### Markdown
+## 💼 Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Senior DevOps / Cloud Solution Architect** @ [AMP Capital](https://www.ampcapital.com/au/en/home) _(Nov 2019 - Current)_ <br>
+Working on various migration projects to shape and migrate existing on-prem datacentre hosted financial applications to AWS
+  - Design patterns and provide solution architecture diagrams to reshape and migrate in-house and vendor applications to AWS
+  - Design and build continuous integration and delivery processes, monitoring, and alerting solutions
+  - Design and develop serverless microservice applications in AWS
+  - Building integrations between applications
+  - Create deployment pipelines and automation
+  
+🛠️ **_Tech stack:_** CDK, node.js, TypeScript, API-GW, Lambda, Jenkins, Terraform, Docker.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**DevOps Engineer** @ [NIB Travel](https://www.nib.com.au/) _(Sep 2017 - Nov 2019)_ <br>
+Responsible for in house hosted services migration to the cloud, creation of CI/CD pipelines, minimizing downtime of the systems and creating immutable
+infrastructure while saving costs.
+  - Working with developers to support new features and services
+  - Implement CI/CD solutions to support fast release cycle
+  - Maintain and extend existing DevOps pipeline
+  - Create the best fit pattern for existing brand insurance website migration
+  - Architect and implement CI/CD solutions for existing application deployments
+  - Implement and maintain monitoring and alerting solutions (Nagios, New Relic, Sumo Logic, Pager Duty)
+  - Creating immutable infrastructure on AWS using programming languages and Cloudformation
+  - Support on-prem VMware datacenter as well as AWS workloads
+  
+🛠️ **_Tech stack:_** CloudFormation, Ruby, .Net Framework, Visual Studio, BuildKite, Lambda, Terraform, Docker, Puppet.
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**DevOps Infrastructure Engineer** @ [Plutora](https://www.plutora.com/) _(Nov 2015 - Sep 2017)_ <br>
+Responsible for global cloud-based IT infrastructure including servers, networks, and security. Providing a highly available platform through automation and continuous innovation
+  - Network, security, AWS account setup and automation
+  - Management, maintenance, and architecture of Windows and Linux servers, virtualized environments, network devices
+  - Design and delivery of deployment pipelines for the .Net Framework application and services
+  - SQL server management and automation
+  - Automation
+  - Setup and maintenance of CI/CD pipelines
+ 
+  
+🛠️ **_Tech stack:_** CloudFormation, AWS services, Nginx, Haproxy, Powershell, Bash, TeamCity.
+<br>
 
-- Bulleted
-- List
+**Infrastructure Engineer** @ [DanseBank](https://danskebank.com/) _(Apr 2015 - Oct 2015)_ <br>
+  
+**IT Engineer** @ [Barclays Bank](https://www.barclays.co.uk/) _(Jan 2010 - Apr 2015)_ 
+    <br>
+    
 
-1. Numbered
-2. List
+## 🏆 Certification
 
-**Bold** and _Italic_ and `Code` text
+**AWS Certified Solution Architect** @ [AWS](https://aws.amazon.com/certification/certified-solutions-architect-associate/) _(Aug 2019)_ <br>
 
-[Link](url) and ![Image](src)
-```
+## 💭 Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**English**: Fluent <br>
+**Lithuanian**: Native <br>
+**Russian**: Fluent
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtadas/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 👩🏼‍🎓 Education
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor of Science** in Computer  Networking<br>
+[University of Bedfordshire](https://www.beds.ac.uk/) - UK _(2007 - 2009)_
