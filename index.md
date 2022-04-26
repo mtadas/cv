@@ -54,6 +54,7 @@ Responsible for global cloud-based IT infrastructure including servers, networks
 ## 🏆 Certification
 
 **AWS Certified Solution Architect** @ [AWS](https://aws.amazon.com/certification/certified-solutions-architect-associate/) _(Aug 2019)_ <br>
+**Azure Solutions Architect Expert** @ [Azure](https://www.credly.com/badges/56c6a3b3-cb66-4ed1-9481-93b61c2e16c5?source=linked_in_profile) _(Aug 2021)_ <br>
 
 ## 💭 Languages
 
